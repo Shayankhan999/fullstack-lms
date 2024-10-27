@@ -1,0 +1,9 @@
+1.users
+admin ,trainer, students
+
+2. courses
+batch 1, batch 2
+
+3, assigments
+
+4 feedback
