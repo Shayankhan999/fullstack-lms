@@ -63,11 +63,11 @@ export function TrainerModal() {
                     </DrawerDescription>
                 </DrawerHeader>
                 <TrainerForm className="px-4" />
-                <DrawerFooter className="pt-2">
+                {/* <DrawerFooter className="pt-2">
                     <DrawerClose asChild>
                         <Button variant="outline">Cancel</Button>
                     </DrawerClose>
-                </DrawerFooter>
+                </DrawerFooter> */}
             </DrawerContent>
         </Drawer>
     )
